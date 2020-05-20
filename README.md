@@ -1,2 +1,2 @@
 # Experiments
-personally learning playground
+personal learning playground
